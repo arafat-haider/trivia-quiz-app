@@ -91,7 +91,7 @@ You can deploy this app easily on:
 ## 📄 License
 
 MIT License  
-© 2025 [Your Name](https://github.com/yourusername)
+© 2025 [Arafat Haider](https://github.com/arafat-haider)
 
 ---
 
