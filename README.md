@@ -37,7 +37,7 @@ A beautifully styled, interactive quiz app built with **React + Tailwind CSS**, 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/trivia-quiz-app.git
+git clone https://github.com/arafat-haider/trivia-quiz-app.git
 
 # 2. Go into the project directory
 cd trivia-quiz-app
